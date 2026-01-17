@@ -4,7 +4,7 @@ A comprehensive tracker monitoring AI legislation, regulations, and policies acr
 
 ## Overview
 
-This tracker monitors **17 AI laws and policies** across **13 jurisdictions**, including:
+This tracker monitors **23 AI laws and policies** across **15 jurisdictions**, including:
 - European Union (EU AI Act)
 - United States (Federal and State regulations)
 - Japan, South Korea, China
