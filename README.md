@@ -17,12 +17,12 @@ This tracker monitors **17 AI laws and policies** across **13 jurisdictions**, i
 - **AI-Related Law:** Adjacent laws applying to AI (data protection, employment, consumer protection)
 - **Case Law:** Court decisions establishing AI governance precedents
 
-## Status as of January 16, 2026
+## Status as of January 18, 2026
 
 All entries reflect current implementation status, including:
 - EU AI Act phased rollout (prohibited practices active, main provisions pending Aug 2026)
 - US Executive Order on National AI Framework (Dec 2025)
-- State-level regulations (Colorado, California, Illinois, New York City)
+- State-level regulations (Colorado, California, Illinois, New York City, Texas, and Utah)
 - International frameworks (Japan AI Promotion Act, South Korea Framework Act)
 
 ## File
