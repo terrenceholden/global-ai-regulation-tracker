@@ -27,7 +27,7 @@ All entries reflect current implementation status, including:
 
 ## File
 
-📊 **[AI_Law_Policy_Tracker.xlsx](AI_Law_Policy_Tracker.xlsx)** - Click to view in browser
+📊 **[AI-Law-Policy-Tracker.xlsx](AI-Law-Policy-Tracker.xlsx)** - Click to view in browser
 
 ## Columns
 
