@@ -46,7 +46,7 @@ All entries reflect current implementation status, including:
 
 This tracker is maintained and updated as AI regulations evolve globally.
 
-**Last Updated:** January 16, 2026
+**Last Updated:** January 18, 2026
 
 ## Maintained By
 
